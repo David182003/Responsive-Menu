@@ -20,6 +20,12 @@
 
 
 
+Diseño responsivo: El menú se adapta automáticamente al ancho de la pantalla, desde escritorios grandes hasta dispositivos móviles pequeños.
+Elegante y minimalista: La apariencia limpia y moderna del menú complementa cualquier estilo de sitio web.
+Fácil de usar: La navegación intuitiva y los enlaces claros hacen que sea fácil para los usuarios encontrar lo que buscan.
+Personalizable: El código CSS se puede modificar fácilmente para personalizar el aspecto del menú y ajustarlo a la estética de su sitio web.
+
+
 
 
 Barra de navegación adaptable
