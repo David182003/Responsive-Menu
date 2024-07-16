@@ -1,6 +1,5 @@
 <h1>Menu Responsivo</h1>
-Miralo en youtube
-<button>Welcome</button>
+ <a  href="#" class="link_home"></a>a>
 Barra de navegación adaptable
 Barra de navegación adaptable con HTML, CSS y JavaScript
 Con mega menú desplegable
