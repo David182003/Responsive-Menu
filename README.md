@@ -22,7 +22,7 @@
 <li>Fácil de usar</li>
 <li>Elegante y minimalista</li>
 
-💙 Únete al canal para ver más vídeos como este. Bedimcode
+💙 Únete al canal para ver más vídeos como este. Wave Enginner
 
 
 
