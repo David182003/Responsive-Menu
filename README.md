@@ -21,8 +21,9 @@
 <li>Personalizable</li>
 <li>Fácil de usar</li>
 <li>Elegante y minimalista</li>
+<br>
+<p align="center">💙 Únete al canal para ver más vídeos como este. Wave Enginner</p>
 
-💙 Únete al canal para ver más vídeos como este. Wave Enginner
 
 
 
