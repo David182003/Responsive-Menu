@@ -1,4 +1,4 @@
-<h1>Menu Responsivo</h1>
+<h1 align="center" background-color="white">Menu Responsivo</h1>
 <a  href="https://www.youtube.com/watch?v=AnKdQ5p5Ks8&list=RDEaYmk5dhNbU&index=8" class="link_home">Yootube</a>
 Barra de navegación adaptable
 Barra de navegación adaptable con HTML, CSS y JavaScript
