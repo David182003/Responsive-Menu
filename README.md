@@ -18,8 +18,7 @@
   </a>  
 <hr>
 <h3>Caracteristicas</h3>
-
-
+<p>Barra de navegación adaptable</p>
 
 Diseño responsivo: El menú se adapta automáticamente al ancho de la pantalla, desde escritorios grandes hasta dispositivos móviles pequeños.
 Elegante y minimalista: La apariencia limpia y moderna del menú complementa cualquier estilo de sitio web.
@@ -29,7 +28,7 @@ Personalizable: El código CSS se puede modificar fácilmente para personalizar 
 
 
 
-Barra de navegación adaptable
+
 Barra de navegación adaptable con HTML, CSS y JavaScript
 Con mega menú desplegable
 Con una hermosa interfaz minimalista.
