@@ -1,6 +1,5 @@
-<h1 align="center" background-color="white">Menu Responsivo</h1>
+<h1 align="center" background-color="white">Menu Responsivo👨🏻‍💻</h1>
 <a  href="https://www.youtube.com/watch?v=AnKdQ5p5Ks8&list=RDEaYmk5dhNbU&index=8" class="link_home">Yootube</a>
-
 
 <hr>
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
@@ -31,7 +30,6 @@ Con mega menú desplegable
 Con una hermosa interfaz minimalista.
 Desarrollado primero con la metodología Mobile First, luego para escritorio.
 💙 Únete al canal para ver más vídeos como este. Bedimcode
-![Responsive-Menu](https://github.com/user-attachments/assets/4e296ec0-6dd6-4212-adbe-d7f6cf0a4e52)
 
 ![Responsive-Menu](https://github.com/user-attachments/assets/5060da9a-2281-4188-86ea-683b34647037)
 
