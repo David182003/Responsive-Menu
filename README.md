@@ -17,21 +17,11 @@
   </a>  
 <hr>
 <h3>Caracteristicas</h3>
-<li>Barra de navegación adaptable con HTML, CSS</li>
-<li>La apariencia limpia y moderna del menú complementa cualquier estilo de sitio web.</li>
-Diseño responsivo: El menú se adapta automáticamente al ancho de la pantalla, desde escritorios grandes hasta dispositivos móviles pequeños.
-Elegante y minimalista: La apariencia limpia y moderna del menú complementa cualquier estilo de sitio web.
-Fácil de usar: La navegación intuitiva y los enlaces claros hacen que sea fácil para los usuarios encontrar lo que buscan.
-Personalizable: El código CSS se puede modificar fácilmente para personalizar el aspecto del menú y ajustarlo a la estética de su sitio web.
+<li>Diseño responsivo con HTML, CSS</li>
+<li>Personalizable</li>
+<li>Fácil de usar</li>
+<li>Elegante y minimalista</li>
 
-
-
-
-
-
-Con mega menú desplegable
-Con una hermosa interfaz minimalista.
-Desarrollado primero con la metodología Mobile First, luego para escritorio.
 💙 Únete al canal para ver más vídeos como este. Bedimcode
 
 ![Responsive-Menu](https://github.com/user-attachments/assets/5060da9a-2281-4188-86ea-683b34647037)
