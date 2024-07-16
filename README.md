@@ -17,7 +17,7 @@
  
   </a>  
 <hr>
-<h2>Caracteristicas</h2>
+<h3>Caracteristicas</h3>
 
 
 
