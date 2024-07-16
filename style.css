@@ -1,0 +1,117 @@
+:root{
+    --verde:#00A149;
+    --blanco:#fff;
+    --rojo:#ff0008;
+    --gray:#818181;
+    --black:#000;
+    --title:Arial;
+    --colorshadow:rgba(73, 121, 255, 0.418);
+    --parrafos:sans-serif;
+    --colorcircle:#00d9ff;
+}
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+body{
+    background-color: var(--blanco);
+}
+nav{
+    background-color:var(--blanco);
+    display: grid;
+    height: 70px;
+    grid-template-columns: 1fr 2fr ;
+    box-shadow: 1px 3px 20px var(--colorshadow);
+}
+ul{
+    display: flex;
+    width: 100%;
+    gap: 25px;
+    align-items: center;
+    justify-content: right;
+}
+ul a{
+    color: var(--black);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+img{
+    width: 50px;
+}
+.container_one{
+    display: flex;
+    padding: 0% 0% 0% 10%;
+}
+.container_two{
+    display: flex;
+    padding: 0% 10% 0% 0%;
+}
+.link_home{
+    display: flex;
+    align-items: center;
+}
+#check, .checkbtn{
+    display: none;
+}
+.btn_empezar{
+    padding: 8px 30px;
+    border-radius: 4px;
+    color: var(--blanco);
+    background-color: var(--black);
+}
+
+/* Estilos para la versión móvil */
+@media (max-width: 768px) {
+    .container_two{
+        display: flex;
+        justify-items: center;
+        justify-content: end;
+    }
+    .checkbtn{
+        display: block;
+    }
+    .nav_input:checked + .nav_menu{
+        background-color: var(--colorcircle);
+        clip-path:   circle(100% at center);
+    }
+    .checkbtn{
+        display: flex;
+        align-items: center;
+    }
+    .bx{
+        font-size: 30px;
+    }
+    .a1::after{
+        content:"";
+        width: 20px;
+        height: 20px;
+        content: "";
+        display: block;
+        background-color: #000000;
+        width:40vh;
+        margin-top: 3px;
+        height: 3px;
+        clip-path:var(--clippy);
+        transition: clip-path 1s ease-in-out;
+    }
+    .btn_empezar{
+        width: 40vh;
+    }
+    .nav_menu{
+        position:fixed;
+        top: 65px;
+        background-color: var(--colorcircle);
+        height: 100%;
+        bottom: 0;
+        padding-top: 10%;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+        clip-path: circle(0 at center);
+        transition: clip-path 1s ease-in-out;
+    }
+}
