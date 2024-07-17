@@ -14,7 +14,8 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
  
-  </a>  ![Responsive-Menu](https://github.com/user-attachments/assets/5060da9a-2281-4188-86ea-683b34647037)
+  </a> ![Miniatura-Response-Menu](https://github.com/user-attachments/assets/1c2f5f7a-6a86-4ebc-9606-68f03256d342)
+
 <hr>
 <h3>Caracteristicas</h3>
 <li>Diseño responsivo con HTML, CSS</li>
